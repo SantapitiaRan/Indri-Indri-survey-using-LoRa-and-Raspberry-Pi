@@ -1,2 +1,2 @@
 # ProjectMonkey
-Trying to diffirenciate Monkey gender and shout
+Trying to differentiate Monkey gender and shout
