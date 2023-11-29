@@ -3,43 +3,17 @@ This project is based on an another project named audio-compare-master.The goal 
 First of all the list of requirment for this project:
 
 Hardware:
-
- -Computer x1
- 
- -Raspberry Pi x1
- 
- -LoRashield x2
- 
--Arduino uno or mega x2
-
--Microphone USB x1
+Computer x1,Raspberry Pi x1,LoRashield x2,Arduino uno or mega x2,,Microphone USB x1
 
 Software :
-
--Audacity
-
--Linux
-
--Arduino IDE
-
--Python 3
+Audacity,Linux,Arduino IDE,Python 3
 
 Library :
 
 For python :
-
--PyAcousticID
-
--Numpy
-
--Chromaprint
-
--PyAudio
-
--Pyserial
+PyAcousticID,Numpy,Chromaprint,PyAudio,Pyserial
 
 For Arduino :
-
--LoRa
+LoRa
 
 
